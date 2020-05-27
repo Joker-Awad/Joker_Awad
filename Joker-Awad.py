@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 #-*- coding: utf-8 -*-
-#github.com/Joker_Awad/Joker-Awad
+#github.com/Joker_Awad/Joker-Awad.py
 import requests,re,os
 import time
 import sys
